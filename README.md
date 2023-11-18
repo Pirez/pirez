@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Pirez, a Data Scientist specializing in astrophysics. Passionate about Python and always eager to discover new things.
+
 <!--
 **Pirez/pirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
